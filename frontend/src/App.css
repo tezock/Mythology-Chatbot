@@ -1,0 +1,29 @@
+.nav-container {
+  width: 100vw;
+  height: 10vh;
+  margin-top: 5vh;
+}
+
+.nav-content {
+  
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.nav-title-container {
+  
+  height: 100%;
+}
+
+.nav-title-content {
+
+  font-size: 30px;
+}
+
+/* Styles the chat page */
+
+.chatpage-content {
+  display: flex;
+}

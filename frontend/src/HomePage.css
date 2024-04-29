@@ -1,0 +1,7 @@
+.home-content {
+    /* background-image: url('./images/home-background2.jpg'); */
+    background-size: cover;
+    min-width: 100%; /* Set minimum width to 100% of the background image */
+    min-height: 100vh; /* Set minimum height to 100% of the viewport height */
+  }
+  
