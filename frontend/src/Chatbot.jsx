@@ -56,7 +56,7 @@ function Chatbot({ figure }) {
     }
 
     const apiRequestBody = {
-      "model": "gpt-3.5-turbo",
+      "model": "gpt-4-turbo",
       "messages": [
         systemMessage,
         ...apiMessages
